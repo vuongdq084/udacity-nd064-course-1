@@ -37,4 +37,4 @@ jobs:
           file: ./project/Dockerfile
           platforms: linux/amd64
           push: true
-          tags: vuongdq2503/udacity/techtrends:latest
+          tags: vuongdq2503/techtrends:latest
