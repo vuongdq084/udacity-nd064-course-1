@@ -1,7 +1,6 @@
 # nd064_C1
-### Cloud Native Fundamentals Scholarship Program Nanodegree Program
+### Cloud Native Fundamentals Project TechTrends
 
-**Course Homepage**: https://sites.google.com/udacity.com/suse-cloud-native-foundations/home
+**Github Source**: https://github.com/vuongdq084/udacity-nd064-course-1
 
-**Instructor**: https://github.com/kgamanji
-# udacity-nd064-course-1
+**Author**: vuongdq@fpt.com
